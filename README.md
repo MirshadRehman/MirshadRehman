@@ -3,9 +3,7 @@
 <br/>  
 
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=MirshadRehman&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div>  
 
-<br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">  
@@ -37,6 +35,10 @@
 </div>
 
 </td></tr></table>  
+
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=MirshadRehman&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div>  
+
+<br/> 
 
 <br/>  
 
