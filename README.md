@@ -8,7 +8,7 @@
 <br/>  
 
 ## My Skill Set  
-<table align="center" border="none"><tr  border="none"><td  border="none" valign="top" width="33%">  
+<table><tr><td valign="top" width="33%">  
 
 ### Frontend  
 <div align="center">  
