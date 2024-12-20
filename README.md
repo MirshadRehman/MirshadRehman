@@ -2,7 +2,7 @@
 
 <br/>  
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MirshadRehman&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div>  
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=MirshadRehman&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div>  
 
 <br/>  
 ## My Skill Set  
@@ -27,6 +27,7 @@
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px; filter: invert(1)" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" /></a>  
 </div>  
 </td><td valign="top" width="33%">
+
 ### Database  
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px; filter: invert(1)" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
