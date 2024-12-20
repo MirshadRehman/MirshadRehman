@@ -1,12 +1,14 @@
 <div align="right">⚡ Fun fact: I use tabs over spaces</div>  
 
 <br/>  
-## Github Stats  
+
+
 <div align="right"><img src="https://github-readme-stats.vercel.app/api?username=MirshadRehman&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div>  
 
 <br/>  
+
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">  
+<table border="none"><tr><td valign="top" width="33%">  
 
 ### Frontend  
 <div align="center">  
@@ -33,8 +35,6 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px; filter: invert(1)" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px; filter: invert(1)" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
 </div>
-
-</td><td valign="top" width="33%">  
 
 </td></tr></table>  
 
