@@ -2,7 +2,9 @@
 
 <br/>  
 
+![Snake animation](https://github.com/<your-username>/<your-repo>/blob/output/snake.svg)
 
+<br/>
 
 
 ## My Skill Set  
