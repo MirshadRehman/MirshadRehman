@@ -2,7 +2,7 @@
 
 <br/>  
 
-![Snake animation](https://github.com/<your-username>/<your-repo>/blob/output/snake.svg)
+![Snake animation](https://github.com/MirshadRehman/MirshadRehman/blob/output/snake.svg)
 
 <br/>
 
