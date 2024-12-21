@@ -2,10 +2,6 @@
 
 <br/>  
 
-![Snake animation](https://github.com/MirshadRehman/MirshadRehman/blob/output/snake.svg)
-
-<br/>
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">  
